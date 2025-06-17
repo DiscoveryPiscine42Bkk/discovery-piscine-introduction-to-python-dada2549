@@ -1,1 +1,6 @@
-
+value = int(input())
+if value >= 25:
+	print("Error")
+    if value >= 25:
+	print("Error")
+    
